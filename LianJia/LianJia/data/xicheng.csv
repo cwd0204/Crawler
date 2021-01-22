@@ -1,0 +1,903 @@
+URL,District,TradeTime,Cycle,Followers,TotalPrice,Price,Square,Living,Drawing,Kitchen,Bath,Floor,Type,Orientation,Contime,Decoration,Structure,LiftRatio,Elevator,Rights,Subway
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103261880.html,西城,2018.12.24,117,110,2910000,null,24.22,1,0,1,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103861805.html,西城,2018.12.18,3,20,2850000,null,21.72,1,0,1,1,中 20,塔楼,北,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103585028.html,西城,2018.12.17,55,149,2760000,null,25.56,1,1,0,1,低 20,塔楼,东,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103616318.html,西城,2018.11.18,20,26,2800000,null,25.56,1,0,1,1,低 20,塔楼,西,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103610859.html,西城,2018.11,4,52,null,null,22.22,1,0,1,1,中 20,塔楼,北,2004,其他,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101103573417.html,西城,2018.10.28,7,22,2890000,null,24.22,1,1,0,1,低 20,塔楼,南,2004,精装,钢混结构,null,0,1,1
+https://bj.lianjia.com/chengjiao/101102915572.html,西城,2018.07.24,58,168,2800000,null,30.67,1,1,1,1,中 4,板楼,北,1956,简装,混合结构,0.083,1,1,0
+https://bj.lianjia.com/chengjiao/BJ0002815588.html,西城,2018.06,347,0,null,null,暂无数据,-,-,null,null,中 7,板楼,暂无数据,1988,其他,混合结构,0.167,1,0,1
+https://bj.lianjia.com/chengjiao/101102813914.html,西城,2018.05.29,32,111,2740000,null,19.14,1,0,0,1,高 26,塔楼,西,2006,精装,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103761545.html,西城,2018.12.02,8,0,470000,null,62.7,null,null,null,null,地下室,板楼,北,2010,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538710.html,西城,2018.10.20,5,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103538695.html,西城,2018.10.19,4,0,430000,null,53.88,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950854.html,西城,2018.10,暂无数据,0,null,null,57.7,2,1,1,1,低 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005822967.html,西城,2018.09,暂无数据,0,null,null,61.4,2,1,1,1,中 6,板楼,南 西 北,1994,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005826546.html,西城,2018.09,暂无数据,0,null,null,62.3,2,1,1,1,中 6,板楼,南 北,1992,其他,混合结构,0.5,1,0,1
+https://bj.lianjia.com/chengjiao/BJ0005950903.html,西城,2018.09,暂无数据,0,null,null,54.52,null,null,null,null,地下室,板塔结合,暂无数据,2009,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103258480.html,西城,2018.08.30,2,0,1570000,null,53.2,2,1,1,1,地下室 6,板楼,东 西,1987,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101102783880.html,西城,2018.08.08,112,0,430000,null,59.24,null,null,null,null,地下室,板楼,北,未知,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/BJ0005685781.html,西城,2018.08,暂无数据,0,null,null,54,1,1,1,1,中 6,板楼,南 北,2003,其他,钢混结构,0.333,1,0,0
+https://bj.lianjia.com/chengjiao/BJ0005681616.html,西城,2018.08,暂无数据,0,null,null,57.7,2,1,1,1,中 7,板楼,南 西 北,1989,其他,混合结构,0.5,1,0,0
+https://bj.lianjia.com/chengjiao/101103111591.html,西城,2018.07.24,4,0,550000,null,54,null,null,null,null,地下室,暂无数据,南,2003,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101102784295.html,西城,2018.05.11,23,0,440000,null,58.05,null,null,null,null,地下室,板楼,北,2012,其他,钢混结构,null,0,0,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
+https://bj.lianjia.com/chengjiao/101103502754.html,西城,2018.11,21,27,null,null,130.81,2,1,1,2,底 13,塔楼,东 西,2000,简装,钢混结构,0.167,1,1,1
