@@ -40,7 +40,7 @@ def get_house_url_current_page(url):
         deal_year = deal_date[:4]
         if deal_year == '近30天':
             pass
-        elif deal_year == '2018':
+        elif deal_year == '2020':
             house_url_list_li = selector.xpath('/html/body/div[5]/div[1]/ul/li')
             for li in house_url_list_li:
                 house_url = li.xpath('div/div[1]/a/@href')[0]
@@ -88,12 +88,13 @@ def write_house_url(write_str, district):
     local_path = './data_url/house'
     # path_file = local_path + district + ".txt"
     if not os.path.exists(local_path):
-    try:
-        os.mkdir(local_path)
-        print('Successfully created folder %s' % local_path)
-    except OSError:
-        print("Could not create directory")
-        sys.exit(1)
+
+        try:
+            os.mkdir(local_path)
+            print('Successfully created folder %s' % local_path)
+        except OSError:
+            print("Could not create directory")
+            sys.exit(1)
         
     path_file = local_path + district + ".txt"
     with open(path_file, 'w') as file:
