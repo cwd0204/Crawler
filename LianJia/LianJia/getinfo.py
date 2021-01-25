@@ -88,13 +88,13 @@ def get_house_url_current_district(district_url_list):
 def write_house_url(write_str, district):
     local_path = './data_url/house'
     # path_file = local_path + district + ".txt"
-    if not os.path.exists(local_path):
-        try:
-            os.mkdir(local_path)
-            print('Successfully created folder %s' % local_path)
-        except OSError:
-            print("Could not create directory")
-            sys.exit(1)
+    # if not os.path.exists(local_path):
+    #     try:
+    #         os.mkdir(local_path)
+    #         print('Successfully created folder %s' % local_path)
+    #     except OSError:
+    #         print("Could not create directory")
+    #         sys.exit(1)
     path_file = local_path + district + ".txt"
     with open(path_file, 'w') as file:
         file.write(write_str)
