@@ -35,7 +35,10 @@ def get_data(html):
     list_data = []
     selector = etree.HTML(html)
     # 交易时间
-    TradeTime = selector.xpath('/html/body/div[4]/div/span/text()')[0].replace('成交', '').replace(' ', '')
+    try:
+        TradeTime = selector.xpath('/html/body/div[4]/div/span/text()')[0].replace('成交', '').replace(' ', '')
+    except:
+        TradeTime = 'null'
     # try:
     #     TradeTime = selector.xpath('/html/body/div[4]/div/span/text()')[0].replace('成交', '').replace(' ', '')
     # except:
