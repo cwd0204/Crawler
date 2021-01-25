@@ -255,10 +255,10 @@ def main(index):
             deal_date = row_data[0]
             # 获取年份
             deal_year = int(deal_date[:4])
-            # 筛选2018年的数据
-            if deal_year > 2018:
+            # 筛选2020年的数据
+            if deal_year > 2020:
                 continue
-            if deal_year < 2018:
+            if deal_year < 2020:
                 break
             row_data.insert(0, district_ch)
             row_data.insert(0, url)
