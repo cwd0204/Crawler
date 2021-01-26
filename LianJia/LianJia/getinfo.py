@@ -87,7 +87,7 @@ def get_house_url_current_district(district_url_list):
 # 把url写到本地
 def write_house_url(write_str, district):
     local_path = './data_url'
-    data_path = './data_url/house'
+    data_path = './data_url/house/'
     # path_file = local_path + district + ".txt"
     if not os.path.exists(local_path):
         try:
